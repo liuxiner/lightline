@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://lightline.github.io/</loc>
+    <loc>https://liuxiner.github.io/lightline/</loc>
     <lastmod>2023-01-30T22:58:41+08:00</lastmod>
   </url><url>
-    <loc>http://lightline.github.io/posts/my-first-post/</loc>
+    <loc>https://liuxiner.github.io/lightline/posts/my-first-post/</loc>
     <lastmod>2023-01-30T22:58:41+08:00</lastmod>
   </url><url>
-    <loc>http://lightline.github.io/posts/</loc>
+    <loc>https://liuxiner.github.io/lightline/posts/</loc>
     <lastmod>2023-01-30T22:58:41+08:00</lastmod>
   </url><url>
-    <loc>http://lightline.github.io/categories/</loc>
+    <loc>https://liuxiner.github.io/lightline/categories/</loc>
   </url><url>
-    <loc>http://lightline.github.io/tags/</loc>
+    <loc>https://liuxiner.github.io/lightline/tags/</loc>
   </url>
 </urlset>
