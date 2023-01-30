@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Light Line</title>
-    <link>http://liuxiner.github.io/</link>
+    <link>http://lightline.github.io/</link>
     <description>Recent content on Light Line</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 22:58:41 +0800</lastBuildDate><atom:link href="http://liuxiner.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Jan 2023 22:58:41 +0800</lastBuildDate><atom:link href="http://lightline.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>http://liuxiner.github.io/posts/my-first-post/</link>
+      <link>http://lightline.github.io/posts/my-first-post/</link>
       <pubDate>Mon, 30 Jan 2023 22:58:41 +0800</pubDate>
       
-      <guid>http://liuxiner.github.io/posts/my-first-post/</guid>
+      <guid>http://lightline.github.io/posts/my-first-post/</guid>
       <description>三岁时，
 你说让我等你五分钟。
 二十三岁时，
