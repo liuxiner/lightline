@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Light Line</title>
-    <link>https://liuxiner.github.io/lightline/tags/</link>
+    <link>https://lightline.top/tags/</link>
     <description>Recent content in Tags on Light Line</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://liuxiner.github.io/lightline/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://lightline.top/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
