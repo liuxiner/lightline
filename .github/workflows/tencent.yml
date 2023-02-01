@@ -71,12 +71,13 @@ jobs:
         kubectl config use-context ${TKE_CLUSTER_ID}-context-default
 
     # Deploy the Docker image to the TKE cluster
-    - name: Deploy
-      run: |
-        ./kustomize edit set image ${TKE_IMAGE_URL}:${GITHUB_SHA}
-        ./kustomize build . | kubectl apply -f -
-        kubectl rollout status deployment/${DEPLOYMENT_NAME}
-        kubectl get services -o wide
+    # - name: Deploy
+    #   run: |
+    #     ./kustomize edit set image ${TKE_IMAGE_URL}:${GITHUB_SHA}
+    #     ./kustomize build . | kubectl apply -f -
+    #     kubectl rollout status deployment/${DEPLOYMENT_NAME}
+    #     kubectl get services -o wide
+    
     # 使用云开发 Github Action 部署
     - name: Deploy static to Tencent CloudBase
       id: deployStatic
