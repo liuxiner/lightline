@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Light Line</title>
-    <link>https://lightline.top/posts/</link>
-    <description>Recent content in Posts on Light Line</description>
+    <title>poem on Light Line</title>
+    <link>https://lightline.top/tags/poem/</link>
+    <description>Recent content in poem on Light Line</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Jan 2023 22:58:41 +0800</lastBuildDate><atom:link href="https://lightline.top/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>版本控制管理工具 Git</title>
-      <link>https://lightline.top/posts/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-git/</link>
-      <pubDate>Mon, 01 Aug 2022 21:57:40 +0800</pubDate>
-      
-      <guid>https://lightline.top/posts/%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7-git/</guid>
-      <description>版本控制管理工具 Git 1. Git配置：权限 -&amp;gt; 生成密钥 -&amp;gt; 托管公钥 -&amp;gt; 全局配置 1. 基本操作： 1. 获取仓库权限： 2. 下载Git； 3. 电脑上生成ssh密钥，打开终端，执行 ssh-keyken -t rsa -C &amp;ldquo;邮箱地址&amp;rdquo; 4. 执行成功后，切换至 ~/.ssh目录下， 复制id_rsa.pub的内容； 5. 以Github为例，进入 settings -&amp;gt; SSH and GPG keys ，通过cat命令查看id_rsa.pub的内容，然后复制过来，点击add ssh key，相当于将公钥放到了Github上托管 6. 全局配置： git config --global user.name &amp;#34;xxx&amp;#34; git config --global user.email &amp;#34;xxx@xx.com&amp;#34; git config --local user.name &amp;#34;liuxiner&amp;#34; git config --local user.email &amp;#34;1223495869@qq.com&amp;#34; git config --global user.name &amp;#34;bella123987&amp;#34; git config --global user.email &amp;#34;bella@vibe.us&amp;#34; 验证github配置是否正确：</description>
-    </item>
-    
+    <lastBuildDate>Mon, 30 Jan 2023 22:58:41 +0800</lastBuildDate><atom:link href="https://lightline.top/tags/poem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>《致橡树》</title>
       <link>https://lightline.top/posts/%E8%87%B4%E6%A9%A1%E6%A0%91/</link>
